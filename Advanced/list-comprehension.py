@@ -7,6 +7,9 @@ myList = ["Emilio","Francisco", "Bruno", "Rogelio", "Luis", "Luis"]
 
 # newList = myList.map(e => e != "Luis") in JS
 newList = [ element for element in myList if element != "Luis" ]
+newList2 = list(set(myList))
+
 
 print(myList)
 print(newList)
+print(newList2)
