@@ -13,4 +13,4 @@ def generate_password(long):
     char = random.choice(just_one_tuple)
     one_list.append(char)
 
-  return one_list
+  return "".join(one_list)
