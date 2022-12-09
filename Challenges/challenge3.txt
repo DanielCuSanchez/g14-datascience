@@ -1,0 +1,11 @@
+Realizar un programa que cumpla con lo siguiente:
+- condicional de arranque
+- Funcion main ó run
+- Modulos locales
+- Algun modulo o paquete de PIP
+
+El programa es libre. Algunos ejemplos:
+- Calculadora (Tradicional, peso, conversiones)
+- Inventarios
+- Bolsa azar
+- Cronometro
