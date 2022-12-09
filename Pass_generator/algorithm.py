@@ -1,4 +1,5 @@
 import random
+from PyRandomPassword.PyRandomPassword import RandomGeneratePassword as RandomPassword
 
 def generate_password(long):
   capital_letters = ('A',  'B',  'C',  'D',  'E',  'F',  'G',  'H',  'I',  'J',  'K',  'L',  'M', 'N','Ñ','O','P','Q','R','S','T','U','V','X','Y','Z')
@@ -14,3 +15,6 @@ def generate_password(long):
     one_list.append(char)
 
   return "".join(one_list)
+
+def generate_password2(long):
+  return RandomPassword(long)
