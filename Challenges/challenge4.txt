@@ -1,0 +1,2 @@
+- Imprimir por pantalla los elementos del CSV del archivo de example.csv
+Utilizar el método readlines.
