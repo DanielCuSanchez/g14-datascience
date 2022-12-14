@@ -1,0 +1,8 @@
+# https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+# https://numpy.org/doc/stable/user/quickstart.html
+
+1) Leer el quickstart de ambas documentaciones
+2) Con numpy hacer 2 matrices de 2 x 2. (Rellenar la matriz). Puedes rellenar con numpy o manualmente.
+3) Aplicar la suma, multiplicación, resta y división entre ambas matrices.
+4) Guardar los resultados.
+5) Imprimir ó graficar los resultados.
