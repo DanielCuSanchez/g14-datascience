@@ -1,0 +1,11 @@
+
+Utilizando documentación de pandas:
+
+Handle data
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+
+Graphs
+https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+
+1) Graficar el CSV: file-load.csv con el uso de matplot
+2) Calcular el promedio de todos los estudiantes. (Utilizando la columna de "Final")
